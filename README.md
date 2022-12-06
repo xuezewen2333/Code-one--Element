@@ -1,7 +1,7 @@
 # Code-one--Element2--weekly assessment
 
-Student name: XUE ZEWEN
-Student number: 21009879
+Student name: XUE ZEWEN;
+Student number: 21009879;
 
 WEEK1 LINK: 
 https://mimicproject.com/code/73700679-ae9d-e13a-b225-683532bf5187
